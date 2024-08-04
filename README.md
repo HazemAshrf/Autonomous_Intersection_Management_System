@@ -16,4 +16,4 @@ Modern transportation systems face challenges related to traffic congestion and 
 ### Demonstration and Documentation
 
 - **Demo Video:** A demonstration video showing the simulation in action is available [here](demo_video.mp4).
-- **Research Paper:** The project is documented in detail in the [IEEE_AIM.pdf] (IEEE_AIM.pdf), which provides insights into the methodology, design, and analysis of the AIMS. 
+- **Research Paper:** The project is documented in detail in the [IEEE_AIM.pdf](IEEE_AIM.pdf), which provides insights into the methodology, design, and analysis of the AIMS. 
